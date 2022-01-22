@@ -10,7 +10,7 @@ data_bs = [{"Time":"8:00 - 8:50","1":"Computer Graphics SS2 LAB,CSED17\/  ","2":
 {"Time":"2:40 - 3:30","1":"Quantum Computing LT401 Lecture,CSED14\/","2":"-","3":"-","4":"-","5":""},
 {"Time":"3:30 - 4:20","1":"-","2":"-","3":"-","4":"-","5":"-"},
 {"Time":"4:20 - 5:10","1":"-","2":"-","3":"-","4":"-","5":"Quantum Computing LT402 Lecture,CSED11\/"},
-{"Time":"5:10 - 6:00","1":"Test Automation L,CSED15\/","2":"-","3":"-","4":"-","5":"-"}]
+{"Time":"5:10 - 6:00","1":"Test Automation L,CSED15\/","2":"-","3":"-","4":"-","5":"--"}]
 
 
 var base = "https://tiet.zoom.us/my/"
